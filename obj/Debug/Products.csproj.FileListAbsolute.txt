@@ -1,0 +1,13 @@
+F:\C#\Products Project\Products\Products\bin\Debug\Products.exe.config
+F:\C#\Products Project\Products\Products\bin\Debug\Products.exe
+F:\C#\Products Project\Products\Products\bin\Debug\Products.pdb
+F:\C#\Products Project\Products\Products\obj\Debug\Products.csprojResolveAssemblyReference.cache
+F:\C#\Products Project\Products\Products\obj\Debug\Products.Properties.Resources.resources
+F:\C#\Products Project\Products\Products\obj\Debug\Products.csproj.GenerateResource.Cache
+F:\C#\Products Project\Products\Products\obj\Debug\Products.exe
+F:\C#\Products Project\Products\Products\obj\Debug\Products.pdb
+F:\C#\Products Project\Products\Products\obj\Debug\Products.frmInheritance.resources
+F:\C#\Products Project\Products\Products\obj\Debug\Products.frmLogin.resources
+F:\C#\Products Project\Products\Products\obj\Debug\Products.frmMain.resources
+F:\C#\Products Project\Products\Products\obj\Debug\Products.frmProducts.resources
+F:\C#\Products Project\Products\Products\obj\Debug\Products.frmUsers.resources
